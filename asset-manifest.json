@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/utsav2.0/static/css/main.98ec47ca.css",
+    "main.js": "/utsav2.0/static/js/main.691d2a3d.js",
+    "index.html": "/utsav2.0/index.html",
+    "main.98ec47ca.css.map": "/utsav2.0/static/css/main.98ec47ca.css.map",
+    "main.691d2a3d.js.map": "/utsav2.0/static/js/main.691d2a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.691d2a3d.js"
+  ]
+}

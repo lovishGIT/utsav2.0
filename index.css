@@ -1,0 +1,69 @@
+.white {
+  color: white;
+}
+/*navbar*/
+#Nav1-Nav {
+  font-weight: 500;
+}
+.navbar-brand {
+  font-size: 2rem;
+}
+.ls-ele-2 {
+  font-weight: bold;
+}
+
+.Search-bar {
+  width: 300px;
+}
+/*Huge-text*/
+#sec-startup {
+  padding: 10% 5%;
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+  background-color: #FFE5B4;
+  padding-bottom: 50px;
+
+}
+.image-start {
+  width: 300px;
+  margin: 2px auto;
+}
+.image-tirange {
+  height: 195px;
+}
+.Sign-btn {
+  width: 150px;
+  font-style: italic;
+  border-radius: 5px;
+  background-color: white;
+  margin-bottom: 50px;
+}
+.login-btn {
+  width: 150px;
+  font-style: italic;
+  border-radius: 5px;
+  margin-left: 10px;
+  background-color: black;
+  color: white;
+  margin-bottom: 50px;
+}
+/*features*/
+
+#Features {
+  padding: 5% 20%;
+  margin-top: 0%; 
+}
+
+.cen {
+  padding-top: 12%;
+  padding-bottom: 8%;
+  text-align: center;
+}
+
+/*sadasd*/
+
+@media (max-width:640px) {
+  .visi {
+    display: none;
+  }
+}
